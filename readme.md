@@ -7,3 +7,4 @@ git checkout v1.0 //切换分支
 git branch -M main  //创建分支main
 git remote add origin https://www.com.git 设置自己的仓库网址相当于设置一个网盘地址用于push
 代码
+git push -u origin //将文件上传到设置的仓库网址的地方
